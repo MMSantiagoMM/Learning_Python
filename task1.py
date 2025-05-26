@@ -9,13 +9,3 @@ billWithTipAndSplit = billWithTip / people
 print(f"The bill's cost is: {bill} \n",
       f"The bill with tip is: {billWithTip} \n",
       f"and the cost of the bill with tip by person is: {billWithTipAndSplit}")
-
-
-number3 = (input("Enter a number"))
-
-try:
-    numberReal = int(number3)
-    print(f"You entered a number {number3}")
-
-except:
-    print(f"{number3} is not a number")

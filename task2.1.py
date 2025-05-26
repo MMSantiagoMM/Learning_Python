@@ -20,3 +20,9 @@ if simbol== "*" or simbol == "/" or simbol == "+" or simbol == "-":
 else:
     print("You did not entered a valid simbol")
 
+
+
+
+
+
+
